@@ -1,0 +1,9 @@
+c:\users\donatas\documents\visual studio 2013\Projects\BetGenius\MatchSummaryTests\bin\Debug\MatchSummaryTests.dll
+c:\users\donatas\documents\visual studio 2013\Projects\BetGenius\MatchSummaryTests\bin\Debug\MatchSummaryTests.pdb
+c:\users\donatas\documents\visual studio 2013\Projects\BetGenius\MatchSummaryTests\obj\Debug\MatchSummaryTests.csprojResolveAssemblyReference.cache
+c:\users\donatas\documents\visual studio 2013\Projects\BetGenius\MatchSummaryTests\obj\Debug\MatchSummaryTests.dll
+c:\users\donatas\documents\visual studio 2013\Projects\BetGenius\MatchSummaryTests\obj\Debug\MatchSummaryTests.pdb
+c:\users\donatas\documents\visual studio 2013\Projects\BetGenius\MatchSummaryTests\bin\Debug\MatchSummary.exe
+c:\users\donatas\documents\visual studio 2013\Projects\BetGenius\MatchSummaryTests\bin\Debug\Newtonsoft.Json.dll
+c:\users\donatas\documents\visual studio 2013\Projects\BetGenius\MatchSummaryTests\bin\Debug\MatchSummary.pdb
+c:\users\donatas\documents\visual studio 2013\Projects\BetGenius\MatchSummaryTests\bin\Debug\Newtonsoft.Json.xml
